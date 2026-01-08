@@ -35,23 +35,67 @@ Figma
 
 ## CODE:
 ~~~
-Home Page
-
-<div style="width: 100%; height: 100%; position: relative; background: #F8E113">
-    <div style="width: 190px; height: 48px; left: 92px; top: 320px; position: absolute; background: #F90C0C; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) inset"></div>
-    <div style="width: 170px; height: 48px; left: 103px; top: 320px; position: absolute; color: #09D3FF; font-size: 32px; font-family: Inter; font-weight: 700; word-wrap: break-word">REGISTER</div>
-</div>
-
-// REGISTER
-color: #09D3FF;
-font-size: 32px;
-font-family: Inter;
-font-weight: 700;
-word-wrap: break-word
-
-Page 2
-
-<div style="width: 100%; height: 100%; position: relative; background: #F40EF9"></div>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="android-medium">
+      <img class="element" src="img/5f-9e-827-8b-0-3fbb-5ff-36-6b-0ea-6091-2e-25.png" />
+      <img class="images" src="img/images.png" />
+      <div class="rectangle"></div>
+      <div class="text-wrapper">REGISTER</div>
+    </div>
+  </body>
+</html>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="android-medium">
+      <img class="element" src="img/1131w-kpxah5qopvy.png" />
+      <div class="rectangle"></div>
+      <div class="div"></div>
+      <div class="rectangle-2"></div>
+      <div class="rectangle-3"></div>
+      <div class="rectangle-4"></div>
+      <div class="rectangle-5"></div>
+      <div class="text-wrapper">FULL NAME</div>
+      <div class="text-wrapper-2">:</div>
+      <div class="text-wrapper-3">AGE :</div>
+      <div class="text-wrapper-4">MOBILE NO :</div>
+      <div class="text-wrapper-5">E MAIL :</div>
+      <div class="text-wrapper-6">-</div>
+      <div class="text-wrapper-7">REFERENCE NO:</div>
+      <div class="text-wrapper-8">SUBMIT</div>
+    </div>
+  </body>
+</html>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="android-medium">
+      <img class="images" src="img/images.png" />
+      <img class="element" src="img/251-6b-9b-6df-3-2e-2675-2aa-7d-58-1a-3a-0094.png" />
+      <div class="text-wrapper">THANK YOU!</div>
+      <div class="div">FOR YOUR PARTICIPATION</div>
+    </div>
+  </body>
+</html>
 ~~~
 
 ## OUTPUT:
